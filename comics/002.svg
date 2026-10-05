@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img">
+  <rect width="800" height="600" fill="#d6f0ff"/>
+  <text x="400" y="90" font-family="Comic Sans MS, Chalkboard SE, sans-serif" font-size="44" text-anchor="middle" fill="#4a2c1a">The Great Baguette Hunt</text>
+  <ellipse cx="400" cy="440" rx="140" ry="30" fill="#00000022"/>
+  <path d="M260 430 Q260 380 320 370 Q300 320 360 300 Q380 240 440 270 Q500 270 480 330 Q540 350 540 400 Q550 440 500 440 L300 440 Q260 440 260 430Z" fill="#8b5a2b"/>
+  <path d="M330 255 Q400 205 470 255 Q400 235 330 255Z" fill="#1e3a8a"/>
+  <circle cx="400" cy="205" r="8" fill="#1e3a8a"/>
+  <circle cx="365" cy="360" r="14" fill="#fff"/><circle cx="435" cy="360" r="14" fill="#fff"/>
+  <circle cx="368" cy="362" r="7" fill="#000"/><circle cx="438" cy="362" r="7" fill="#000"/>
+  <path d="M370 400 Q400 425 430 400" stroke="#000" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <text x="400" y="540" font-family="Comic Sans MS, Chalkboard SE, sans-serif" font-size="26" text-anchor="middle" fill="#4a2c1a">(placeholder art: replace me with your comic!)</text>
+</svg>

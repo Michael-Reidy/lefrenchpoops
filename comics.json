@@ -1,0 +1,31 @@
+[
+  {
+    "number": 1,
+    "title": "Bonjour, Poops!",
+    "date": "2026-09-20",
+    "image": "comics/001.svg",
+    "alt": "A little French poop in a beret waves hello and says Bonjour!",
+    "caption": "Our hero arrives. Ooh la la!",
+    "buyUrl": "https://example.com/buy/001"
+  
+  },
+  {
+    "number": 2,
+    "title": "The Great Baguette Hunt",
+    "date": "2026-09-27",
+    "image": "comics/002.svg",
+    "alt": "The poop in a beret chases a runaway baguette.",
+    "caption": "Never trust a baguette with legs.",
+    "buyUrl": "https://example.com/buy/002"
+
+  },
+  {
+    "number": 3,
+    "title": "Croissant Surprise",
+    "date": "2026-10-04",
+    "image": "comics/003.svg",
+    "alt": "The poop in a beret finds a giant croissant.",
+    "caption": "Flaky, buttery, and very big.",
+    "buyUrl": "https://example.com/buy/003"
+  }
+]
