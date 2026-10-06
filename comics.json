@@ -27,5 +27,41 @@
     "alt": "The poop in a beret finds a giant croissant.",
     "caption": "Flaky, buttery, and very big.",
     "buyUrl": "https://example.com/buy/003"
+  },
+  {
+    "number": 4,
+    "title": "The Great Baguette Hunt: The Beginning",
+    "date": "2026-10-01",
+    "image": "comics/1-1.png",
+    "alt": "A comic cover introduces the great baguette hunt, with a baker and a baguette-stealing bird.",
+    "caption": "Never trust a baguette with legs.",
+    "buyUrl": "https://example.com/buy/002"
+  },
+  {
+    "number": 5,
+    "title": "The Baguette Robbery",
+    "date": "2026-10-01",
+    "image": "comics/1-2.png",
+    "alt": "A bird steals baguettes from a bakery, and the baker calls for help.",
+    "caption": "Never trust a baguette with legs.",
+    "buyUrl": "https://example.com/buy/002"
+  },
+  {
+    "number": 6,
+    "title": "The Great Escape",
+    "date": "2026-10-01",
+    "image": "comics/1-3.png",
+    "alt": "A group of baguettes escapes while a bird chases after them.",
+    "caption": "Never trust a baguette with legs.",
+    "buyUrl": "https://example.com/buy/002"
+  },
+  {
+    "number": 7,
+    "title": "Deadly Donuts",
+    "date": "2026-10-01",
+    "image": "comics/1-4.png",
+    "alt": "A donut villain advertises deadly donuts on the back cover.",
+    "caption": "Never trust a baguette with legs.",
+    "buyUrl": "https://example.com/buy/002"
   }
 ]
